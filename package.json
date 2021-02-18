@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AdamBeijar/json-1#readme",
   "dependencies": {
     "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
   }
 }
